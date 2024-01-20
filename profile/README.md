@@ -1,11 +1,4 @@
-## Hi there 👋
+## Добро пожаловать в "TUBIK-corp"! 🤖💡
+Поздравляем! Вы только что наткнулись на самую увлекательную и сумасшедшую организацию AI в интернете. 
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Мы - 4000 евро, и да, это мы заставляем ваши мозги думать, что они умнее нас. 😜
